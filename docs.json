@@ -11,7 +11,7 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Platform",
         "groups": [
           {
             "group": "Getting started",
@@ -48,7 +48,10 @@
         ]
       },
       {
-        "tab": "API reference",
+        "tab": "Exploitation"
+      },
+      {
+        "tab": "Release Notes",
         "groups": [
           {
             "group": "API documentation",
