@@ -99,7 +99,7 @@
         "groups": [
           {
             "group": "Getting started",
-            "pages": ["index", "quickstart", "tests-gauthier/test", "tests-gauthier/2"]
+            "pages": ["platform-v4/index", "platform-v4/quickstart", "platform-v4/tests-gauthier/test", "platform-v4/tests-gauthier/2"]
           }
         ]
       }
