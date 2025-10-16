@@ -82,7 +82,27 @@
           "icon": "newspaper"
         }
       ]
-    }
+    },
+    "versions": [
+      {
+        "version": "platform-v3",
+        "groups": [
+          {
+            "group": "Getting started",
+            "pages": ["index", "quickstart", "tests-gauthier/test", "tests-gauthier/2"]
+          }
+        ]
+      },
+      {
+        "version": "platform-v4",
+        "groups": [
+          {
+            "group": "Getting started",
+            "pages": ["index", "quickstart", "tests-gauthier/test", "tests-gauthier/2"]
+          }
+        ]
+      }
+    ]
   },
   "logo": {
     "light": "/logo/light.svg",
