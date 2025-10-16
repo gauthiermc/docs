@@ -19,8 +19,7 @@
               "index",
               "quickstart",
               "development",
-              "tests-gauthier/test",
-              "tests-gauthier/2"
+              "tests-gauthier/test"
             ]
           },
           {
