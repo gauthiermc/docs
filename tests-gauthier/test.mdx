@@ -1,0 +1,85 @@
+---
+title: "Test"
+description: "Description of your new file."
+---
+
+```markdown
+
+# Niveau 1 : Titre principal
+
+## Niveau 2 : Sous-titre
+
+### Niveau 3 : Section
+
+#### Niveau 4 : Sous-section
+
+##### Niveau 5 : Détail
+
+> 💡 **Callout Information** : Ceci est une note importante à retenir.
+
+> ⚠️ **Callout Avertissement** : Faites attention à cette section.
+
+## Liste à puces
+
+- Élément un
+- Élément deux
+  - Sous-élément A
+  - Sous-élément B
+- Élément trois
+
+## Liste numérotée
+
+1. Première étape
+2. Deuxième étape
+3. Troisième étape
+
+## Tableau
+
+| Nom       | Âge | Ville      |
+|-----------|-----|------------|
+| Alice     | 30  | Paris      |
+| Bob       | 25  | Lyon       |
+| Charlie   | 35  | Marseille  |
+
+```
+
+```c++
+#include <iostream>
+using namespace std;
+
+// Fonction pour saluer
+void saluer(string nom) {
+    cout << "Bonjour, " << nom << " !" << endl;
+}
+
+int main() {
+    string nom;
+    cout << "Entrez votre nom : ";
+    cin >> nom;
+
+    saluer(nom);
+
+    // Exemple de boucle
+    for (int i = 1; i <= 5; ++i) {
+        cout << "Itération numéro " << i << endl;
+    }
+
+    // Exemple de condition
+    int age;
+    cout << "Entrez votre âge : ";
+    cin >> age;
+
+    if (age >= 18) {
+        cout << "Vous êtes majeur." << endl;
+    } else {
+        cout << "Vous êtes mineur." << endl;
+    }
+
+    return 0;
+}
+``
+```
+
+![image.png](/images/image.png)
+
+[Libellé du lien] (../index.mdx)
