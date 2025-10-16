@@ -19,8 +19,7 @@
               "index",
               "quickstart",
               "development",
-              "tests-gauthier/test",
-              "tests-gauthier/2"
+              "tests-gauthier/test"
             ]
           },
           {
@@ -104,15 +103,15 @@
   },
   "contextual": {
     "options": [
-     "copy",
-     "view",
-     "chatgpt",
-     "claude",
-     "perplexity",
-     "mcp",
-     "cursor",
-     "vscode"
-   ]
+      "copy",
+      "view",
+      "chatgpt",
+      "claude",
+      "perplexity",
+      "mcp",
+      "cursor",
+      "vscode"
+    ]
   },
   "footer": {
     "socials": {
