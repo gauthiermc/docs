@@ -86,20 +86,20 @@
     },
     "versions": [
       {
-        "version": "platform-V3",
+        "version": "platform-v3",
         "groups": [
           {
             "group": "Getting started",
-            "pages": ["v3/index", "v3/quickstart", "v3/test", "v3/2"]
+            "pages": ["platform-v3/index", "platform-v3/quickstart", "platform-v3/test", "platform-v3/2"]
           }
         ]
       },
       {
-        "version": "platform-V4",
+        "version": "platform-v4",
         "groups": [
           {
             "group": "Getting started",
-            "pages": ["v4/index", "v4/quickstart", "v4/test", "v4/2"]
+            "pages": ["platform-v4/index", "platform-v4/quickstart", "platform-v4/test", "platform-v4/2"]
           }
         ]
       }
