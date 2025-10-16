@@ -90,7 +90,7 @@
         "groups": [
           {
             "group": "Getting started",
-            "pages": ["index", "quickstart", "test", "2"]
+            "pages": ["index", "quickstart", "tests-gauthier/test", "tests-gauthier/2"]
           }
         ]
       },
@@ -99,7 +99,7 @@
         "groups": [
           {
             "group": "Getting started",
-            "pages": ["index", "quickstart", "test", "2"]
+            "pages": ["index", "quickstart", "tests-gauthier/test", "tests-gauthier/2"]
           }
         ]
       }
