@@ -90,7 +90,7 @@
         "groups": [
           {
             "group": "Getting started",
-            "pages": ["platform-v3/index", "platform-v3/quickstart", "platform-v3/test", "platform-v3/2"]
+            "pages": ["index", "quickstart", "test", "2"]
           }
         ]
       },
@@ -99,7 +99,7 @@
         "groups": [
           {
             "group": "Getting started",
-            "pages": ["platform-v4/index", "platform-v4/quickstart", "platform-v4/test", "platform-v4/2"]
+            "pages": ["index", "quickstart", "test", "2"]
           }
         ]
       }
