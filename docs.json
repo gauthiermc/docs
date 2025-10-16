@@ -83,7 +83,27 @@
           "icon": "newspaper"
         }
       ]
-    }
+    },
+    "versions": [
+      {
+        "version": "platform-V3",
+        "groups": [
+          {
+            "group": "Getting started",
+            "pages": ["v3/index", "v3/quickstart", "v3/test", "v3/2"]
+          }
+        ]
+      },
+      {
+        "version": "platform-V4",
+        "groups": [
+          {
+            "group": "Getting started",
+            "pages": ["v4/index", "v4/quickstart", "v4/test", "v4/2"]
+          }
+        ]
+      }
+    ]
   },
   "logo": {
     "light": "/logo/light.svg",
@@ -104,15 +124,15 @@
   },
   "contextual": {
     "options": [
-     "copy",
-     "view",
-     "chatgpt",
-     "claude",
-     "perplexity",
-     "mcp",
-     "cursor",
-     "vscode"
-   ]
+      "copy",
+      "view",
+      "chatgpt",
+      "claude",
+      "perplexity",
+      "mcp",
+      "cursor",
+      "vscode"
+    ]
   },
   "footer": {
     "socials": {
